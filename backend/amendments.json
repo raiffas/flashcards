@@ -1,0 +1,18 @@
+[
+  { "id": 1, "keyPoint": "Congress cannot restrict freedom of religion, speech, the press, assembly, or petition." },
+  { "id": 2, "keyPoint": "The people have the right to keep and bear arms." },
+  { "id": 3, "keyPoint": "Soldiers cannot be quartered in a private home in peacetime without the owner's consent." },
+  { "id": 4, "keyPoint": "No unreasonable searches or seizures; warrants require probable cause." },
+  { "id": 5, "keyPoint": "No one can be forced to testify against themselves or be deprived of life, liberty, or property without due process." },
+  { "id": 6, "keyPoint": "The accused has the right to a speedy, public trial by an impartial jury and to legal counsel." },
+  { "id": 7, "keyPoint": "The right to a jury trial is preserved in civil cases over a certain value." },
+  { "id": 8, "keyPoint": "Excessive bail, excessive fines, and cruel and unusual punishment are prohibited." },
+  { "id": 9, "keyPoint": "Rights not listed in the Constitution are still retained by the people." },
+  { "id": 10, "keyPoint": "Powers not given to the federal government are reserved to the states or the people." },
+  { "id": 13, "keyPoint": "Slavery and involuntary servitude are abolished, except as punishment for a crime." },
+  { "id": 14, "keyPoint": "All persons born or naturalized in the U.S. are citizens and are guaranteed equal protection of the laws." },
+  { "id": 15, "keyPoint": "The right to vote cannot be denied because of race or previous servitude." },
+  { "id": 19, "keyPoint": "The right to vote cannot be denied because of sex." },
+  { "id": 22, "keyPoint": "A president may be elected to no more than two terms." },
+  { "id": 26, "keyPoint": "The right to vote cannot be denied to citizens who are 18 or older because of age." }
+]

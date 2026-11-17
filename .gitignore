@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Test / build output
+.pytest_cache/
+dist/
+*.tsbuildinfo
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db

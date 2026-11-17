@@ -1,0 +1,41 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  background: #f4f4f4;
+}
+
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 24px;
+  text-align: center;
+}
+
+/* Fixed 4 columns gives the 4x4 layout for 16 cards */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+}
+
+.card {
+  aspect-ratio: 1;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+/* Front and back differ only by color */
+.front {
+  background: #1d4ed8;
+  color: white;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.back {
+  background: #fde68a;
+  color: #222;
+}
