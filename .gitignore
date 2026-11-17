@@ -16,3 +16,6 @@ dist/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Interviewer answer key; keep out of the public repo
+SPOILERS/
