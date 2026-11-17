@@ -10,9 +10,6 @@ interviews. It contains:
 - **The code:** a small flashcard app (frontend and backend) with planted bugs.
 - **The instructions:** [TASK.md](TASK.md), a two-part exercise for the candidate
   (Part 1: find and fix bugs; Part 2: add a cached search feature).
-- **The solutions and tests:** the `SPOILERS/` folder holds the answer key, a reference
-  solution and a test suite for both parts. It is for the interviewer only; see
-  [SPOILERS/README.md](SPOILERS/README.md).
 
 ## Run (one command)
 
